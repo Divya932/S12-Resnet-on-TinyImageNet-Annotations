@@ -1,0 +1,49 @@
+"1b3430ea690fb874e20f814ec994821a.jpg32053": {
+    "filename": "1b3430ea690fb874e20f814ec994821a.jpg",   # This line describes the name of file stored as value with key "filename".
+    "size": 32053,                                        # size describes the image size
+    "regions": [                                          # regions describe all the boxes we have drawn on the image
+      {             
+        "shape_attributes": {                             # Describing the shape attributes
+          "name": "rect",                                 # shape of anchor box is rectangle
+          "x": 205,                                       # the centre of the box lies at x-co-ord: 205
+          "y": 9,                                         # the centre of the box lies at y-co-ord: 9
+          "width": 193,                                   # width of the box is 193
+          "height": 376                                   # height of the box is 376
+        },
+        "region_attributes": {                            # describing what is there in the region enclosed by the boxes
+          "name": "dog",                                  # It contains an object dog
+          "type": "Animal",                               # The object is of type Animal
+          "image_quality": {                               
+            "good": true,                                 # Describing image quality as good
+            "frontal": true,                              # Image has been clicked from front of the object
+            "good_illumination": true                     # The lighting conditions and illumination of object is good
+          },
+		  "class": "Dog"                                  # the object belongs to class Dog
+        }
+      },
+      {
+        "shape_attributes": {                             # Within the same filename, begins another description, describing a second anchor box drawn
+          "name": "rect",                                 # Describing rectangle box, on a second object
+          "x": 1,                                         # Centered at co-ord - (1,115)
+          "y": 115,
+          "width": 244,                                   # width of the box
+          "height": 264                                   # height of the box
+        },
+        "region_attributes": {                            # describes the attributes we have added to describe our image
+          "name": "dog",                                  # object dog
+          "type": "Animal",                               # type Animal
+          "image_quality": {
+            "good": true,                                 # Same as above box
+            "frontal": true,
+            "good_illumination": true
+          },
+		  "class": "Dog"                                  # The second object also belongs to class dog.
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
