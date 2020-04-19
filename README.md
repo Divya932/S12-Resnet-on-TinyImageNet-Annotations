@@ -26,8 +26,10 @@ Downloaded 50 images of dogs. Find images [here](https://github.com/Divya932/S12
 The dogs in these images are then annotated using VGG Tool Annotator.   
 The contents of its JSON file are described [here](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/blob/master/JSON%20Description)  
 
-The elbow graph plot is here. The best number of clusters are found to be 3.  
+The elbow graph plot is here. The best number of clusters are found to be 3.   
+
 ![Elbow](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/blob/master/Ass%20S12_B/elbow.png)  
 
 The Kmeans clusters formed are here:  
+
 ![Clusters](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/blob/master/Ass%20S12_B/Clusters.png)  
