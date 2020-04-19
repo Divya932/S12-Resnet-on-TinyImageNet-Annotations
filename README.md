@@ -19,7 +19,11 @@ Train and val data are shuffled and divided into 70:30 ratio giving 77,000 train
 One Cycle LR  
 
 **Results**  
-Model reaches 57.69% Test Accuracy in 30 epochs.  
+Model reaches 57.69% Test Accuracy in 30 epochs.   
+
+**Accuracy Plot**  
+
+![Accuracy](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/blob/master/S12_TImagenet/accuracy.png)
 
 ## Assignment B:
 Downloaded 50 images of dogs. Find images [here](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/tree/master/Ass%20S12_B/Dogs_data)   
