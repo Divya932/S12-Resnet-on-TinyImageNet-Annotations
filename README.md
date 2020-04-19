@@ -22,8 +22,7 @@ One Cycle LR
 Model reaches 57.69% Test Accuracy in 30 epochs.  
 
 ## Assignment B:
-Downloaded 50 images of dogs. 
-Use this (Links to an external site.) to annotate bounding boxes around the dogs.
-Download JSON file. 
-Describe the contents of this JSON file in FULL details (you don't need to describe all 10 instances, anyone would work). 
-Refer to this tutorial (Links to an external site.). Find out the best total numbers of clusters. Upload link to your Colab File uploaded to GitHub. 
+Downloaded 50 images of dogs. Find images [here](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/tree/master/Ass%20S12_B/Dogs_data)   
+The dogs in these images are then annotated using VGG Tool Annotator.   
+The contents of its JSON file are described [here](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/blob/master/JSON%20Description)  
+The best total numbers of clusters found using Kmeans and elbow method are 3, for these bounding boxes.  
