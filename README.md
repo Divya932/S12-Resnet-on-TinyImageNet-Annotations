@@ -26,4 +26,4 @@ Downloaded 50 images of dogs. Find images [here](https://github.com/Divya932/S12
 The dogs in these images are then annotated using VGG Tool Annotator.   
 The contents of its JSON file are described [here](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/blob/master/JSON%20Description)  
 The best total numbers of clusters found using Kmeans and elbow method are 3, for these bounding boxes.  
-![Elbow](elbow.png)
+![Elbow](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/blob/master/Ass%20S12_B/elbow.png)
