@@ -28,6 +28,3 @@ The contents of its JSON file are described [here](https://github.com/Divya932/S
 
 The Kmeans clusters formed are here:
 ![Clusters](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/blob/master/Ass%20S12_B/Clusters.png)  
-
-The best total numbers of clusters found using Kmeans and elbow method are 3, for these bounding boxes.  
-![Elbow](https://github.com/Divya932/S12-Resnet-on-TinyImageNet-Annotations/blob/master/Ass%20S12_B/elbow.png)
