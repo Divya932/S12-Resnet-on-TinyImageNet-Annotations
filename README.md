@@ -4,8 +4,9 @@ Repo describing Application of Resnet18 on TinyImagenet Dataset and Annotations 
 
 ## Assignment A:
 
-**Train ResNet18 on TINY IMAGENET dataset. (70/30 split) for 50 Epochs. Target 50%+ Validation Accuracy.**
-Train and val data are shuffled and divided into 70:30 ratio giving 77,000 train and 33,000 test images.  
+**Train ResNet18 on TINY IMAGENET dataset. (70/30 split) for 50 Epochs.  
+Target 50%+ Validation Accuracy.**   
+Train and val data are shuffled and divided into 70:30 ratio giving 77,000 train and 33,000 test images.    
 
 **Transforms Applied:**  
 1. HorizontalFlip(0.7)  
